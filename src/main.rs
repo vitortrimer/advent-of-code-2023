@@ -2,7 +2,7 @@ use std::{fs, i32};
 
 fn main() {
     // DAY 01
-    // day_one_first_part();
+    day_one_first_part();
     day_one_second_part();
 }
 
